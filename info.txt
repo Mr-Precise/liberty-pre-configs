@@ -1,0 +1,8 @@
+liberty-pre by Precise
+License: MIT
+
+zapret winws v70.3
+https://github.com/bol-van/zapret/releases/tag/v70.3
+
+WinDivert 2.2.2
+https://github.com/basil00/WinDivert/releases/tag/v2.2.2
