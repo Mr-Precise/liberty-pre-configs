@@ -22,15 +22,20 @@ discordapp.com
 discord.gg
 media.discordapp.net
 images-ext-1.discordapp.net
+stable.dl2.discordapp.net
 discord.app
 discord.media
 discordcdn.com
 discord.dev
 discord.new
 discord.gift
+discord.store
 discordstatus.com
 discordmerch.com
 discordactivities.com
+discordpartygames.com
+discordsays.com
+discordsez.com
 dis.gd
 discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
@@ -46,6 +51,7 @@ bt2.t-ru.org
 bt3.t-ru.org
 bt4.t-ru.org
 doramy.club
+betterttv.net
 softboxdorama.com
 
 www.facebook.com
