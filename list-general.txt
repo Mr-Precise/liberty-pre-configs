@@ -41,6 +41,12 @@ discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
 
 cloudflare-ech.com
+1111-releases.cloudflareclient.com
+cdnjs.cloudflare.com
+api.cloudflareclient.com
+engage.cloudflareclient.com
+developers.cloudflare.com
+
 7tv.app
 7tv.io
 10tv.app
@@ -53,6 +59,7 @@ bt4.t-ru.org
 doramy.club
 betterttv.net
 softboxdorama.com
+kit.fontawesome.com
 
 www.facebook.com
 web.facebook.com
