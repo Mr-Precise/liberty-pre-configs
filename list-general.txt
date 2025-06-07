@@ -70,6 +70,10 @@ doramy.club
 betterttv.net
 softboxdorama.com
 kit.fontawesome.com
+maxcdn.bootstrapcdn.com
+linktr.ee
+rgmechanics.info
+gamesrepack.com
 
 www.facebook.com
 web.facebook.com
