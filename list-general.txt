@@ -16,13 +16,23 @@ ggpht.com
 yt3.ggpht.com
 
 discord.com
+ptb.discord.com
+canary.discord.com
 gateway.discord.gg
 cdn.discordapp.com
 discordapp.com
 discord.gg
+status.discord.com
+dl.discordapp.net
+dl-canary.discordapp.net
+dl-ptb.discordapp.net
+dl-development.discordapp.net
+stable.dl2.discordapp.net
+ptb.dl2.discordapp.net
+canary.dl2.discordapp.net
+development.dl2.discordapp.net
 media.discordapp.net
 images-ext-1.discordapp.net
-stable.dl2.discordapp.net
 discord.app
 discord.media
 discordcdn.com
