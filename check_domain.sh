@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Domain list checker for https://github.com/Mr-Precise/liberty-pre
+# Проверка списка доменов для https://github.com/Mr-Precise/liberty-pre
 
 if [[ $# -ne 1 ]]; then
     echo "[Usage]: $0 <list.txt>"
@@ -16,6 +17,7 @@ if [[ ! -f "$IN_FILE_LIST" ]]; then
 fi
 
 # Function to check if a domain resolves to an IP (IPv4 or IPv6)
+# Функция, чтобы проверить, разрешается ли домен в IP (IPv4 или IPv6)
 check_domain() {
     local domain="$1"
     local ipv4 ipv6
@@ -29,8 +31,11 @@ check_domain() {
 }
 
 # Read the domain list from file and check domains
+# Читаем список доменов из файла и проверяем домены
 while IFS= read -r domain; do
     domain=$(echo "$domain" | tr -d '\r' | xargs)  # Remove carriage returns and trim spaces (windows is shit)
-    [[ -z "$domain" || "$domain" =~ ^# ]] && continue  # Skip empty lines and comments
+    [[ -z "$domain" || "$domain" =~ ^# ]] && continue
+    # Skip empty lines and comments
+    # Пропускаем пустые строки и комментарии
     check_domain "$domain"
 done < "$IN_FILE_LIST"

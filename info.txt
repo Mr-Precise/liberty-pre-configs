@@ -1,11 +1,11 @@
 liberty-pre by Precise
-zapret (winws.exe) Launcher (DPI bypass) tool
+zapret Launcher (DPI bypass) tool
 
 https://github.com/Mr-Precise/liberty-pre/
 
 License: MIT
 
-zapret winws
+zapret winws nfqws
 https://github.com/bol-van/zapret/
 
 WinDivert driver
