@@ -159,3 +159,16 @@ oninstagram.com
 online-instagram.com
 onlineinstagram.com
 web-instagram.net
+
+blitz.gg
+blitz-payments-server.b-cdn.net
+blitz-cdn.blitz.gg
+blitz-cdn-plain.b-cdn.net
+blitz-cdn-images.b-cdn.net
+blitz-datalake-server.b-cdn.net
+blitz-desktop.b-cdn.net
+blitz-desktop.blitz.gg
+blitz-deltas.b-cdn.net
+blitz-deltas.blitz.gg
+blitz-main.b-cdn.net
+blitz-main.blitz.gg
