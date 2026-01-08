@@ -18,6 +18,7 @@ media.discordapp.net
 images-ext-1.discordapp.net
 discord.app
 discord.media
+latency.discord.media
 discordcdn.com
 discord.dev
 discord.new
@@ -51,10 +52,13 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 1111-releases.cloudflareclient.com
+downloads.cloudflareclient.com
+pkg.cloudflareclient.com
 cdnjs.cloudflare.com
 api.cloudflareclient.com
 engage.cloudflareclient.com
 developers.cloudflare.com
+one.one.one.one
 
 7tv.app
 7tv.io

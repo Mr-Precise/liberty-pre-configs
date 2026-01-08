@@ -19,6 +19,7 @@ media.discordapp.net
 images-ext-1.discordapp.net
 discord.app
 discord.media
+latency.discord.media
 discordcdn.com
 discord.dev
 discord.new
