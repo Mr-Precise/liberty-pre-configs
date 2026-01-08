@@ -65,6 +65,7 @@ one.one.one.one
 10tv.app
 rutracker.org
 rutracker.wiki
+static.rutracker.cc
 bt.t-ru.org
 bt2.t-ru.org
 bt3.t-ru.org
@@ -77,7 +78,9 @@ maxcdn.bootstrapcdn.com
 linktr.ee
 rgmechanics.info
 gamesrepack.com
+rutor.org
 
+facebook.com
 www.facebook.com
 web.facebook.com
 api2.facebook.com
@@ -163,6 +166,7 @@ oninstagram.com
 online-instagram.com
 onlineinstagram.com
 web-instagram.net
+static.cdninstagram.com
 
 blitz.gg
 blitz-payments-server.b-cdn.net
