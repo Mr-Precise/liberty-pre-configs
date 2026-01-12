@@ -1,0 +1,13 @@
+The following files were inspired by the ideas and general approach
+described in the project:
+https://github.com/Flowseal/zapret-discord-youtube/
+
+The files were independently implemented, converted to a different
+format, and significantly modified. No original source files were
+copied verbatim.
+
+  ALT*.cfg and fake_tls_auto*.cfg inspired by *.bat strategy files
+  ipset-orig.txt inspired by ipset-all.txt
+
+Licensed under MIT License
+Copyright (c) 2026 Precise
