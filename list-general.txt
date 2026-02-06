@@ -79,6 +79,13 @@ linktr.ee
 rgmechanics.info
 gamesrepack.com
 rutor.org
+nyaa.si
+nnmclub.to
+nnm-club.me
+speedtest.net
+ookla.com
+ficbook.net
+archiveofourown.org
 
 facebook.com
 www.facebook.com
@@ -94,11 +101,29 @@ secure.facebook.com
 dns.facebook.com
 messenger.com
 
+signal.org
+signal.art
+signal.group
+signal.link
+signal.me
+signal.tube
+turn3.voip.signal.org
+sfu.voip.signal.org
+
 twitter.com
 x.com
 api.x.com
+api.twitter.com
 abs.twimg.com
 abs-0.twimg.com
+video.twimg.com
+pbs.twimg.com
+t.co
+static.ads-twitter.com
+upload.twitter.com
+syndication.twitter.com
+support.twitter.com
+mobile.twitter.com
 
 achat-followers-instagram.com
 acheter-followers-instagram.com
@@ -160,13 +185,20 @@ instgram.com
 intagram.com
 intagrm.com
 intgram.com
+api.instagram.com
+i.instagram.com
 kingstagram.com
 lnstagram-help.com
 oninstagram.com
 online-instagram.com
 onlineinstagram.com
 web-instagram.net
+cdninstagram.com
 static.cdninstagram.com
+graph.instagram.com
+scontent.cdninstagram.com
+z-p3.www.instagram.com
+z-p4.www.instagram.com
 
 blitz.gg
 blitz-payments-server.b-cdn.net
