@@ -88,13 +88,21 @@ ficbook.net
 archiveofourown.org
 
 facebook.com
+facebook.net
 www.facebook.com
 web.facebook.com
+api.facebook.com
 api2.facebook.com
+ru-ru.facebook.com
 fb.com
 fb.me
 fbcdn.net
+connect.facebook.net
+developers.facebook.com
+business.facebook.com
+graph.facebook.com
 static.xx.fbcdn.net
+scontent.xx.fbcdn.net
 api.fbsbx.com
 api.fbcdn.com
 secure.facebook.com
