@@ -79,10 +79,13 @@ linktr.ee
 rgmechanics.info
 gamesrepack.com
 rutor.org
+torproject.org
 nyaa.si
 nnmclub.to
 nnm-club.me
 speedtest.net
+beta.speedtest.net
+ipv6.speedtest.net
 ookla.com
 ficbook.net
 archiveofourown.org
@@ -103,11 +106,22 @@ business.facebook.com
 graph.facebook.com
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
+external.xx.fbcdn.net
+external-iev1-1.xx.fbcdn.net
+lookaside.fbsbx.com
 api.fbsbx.com
 api.fbcdn.com
 secure.facebook.com
 dns.facebook.com
 messenger.com
+
+meta.com
+meta.ai
+www.meta.com
+oculus.com
+oculusvr.com
+oculusrift.com
+scontent-iev1-1.oculuscdn.com
 
 whatsapp.com
 www.whatsapp.com
@@ -253,6 +267,10 @@ scontent.cdninstagram.com
 z-p3.www.instagram.com
 z-p4.www.instagram.com
 
+threads.com
+threads.net
+www.threads.com
+
 blitz.gg
 blitz-payments-server.b-cdn.net
 blitz-cdn.blitz.gg
@@ -265,3 +283,14 @@ blitz-deltas.b-cdn.net
 blitz-deltas.blitz.gg
 blitz-main.b-cdn.net
 blitz-main.blitz.gg
+
+minecraft.net
+www.minecraft.net
+net-secondary.web.minecraft-services.net
+minecraftshop.com
+mojang.com
+piston-data.mojang.com
+launcher.mojang.com
+resources.download.minecraft.net
+libraries.minecraft.net
+s3.amazonaws.com
