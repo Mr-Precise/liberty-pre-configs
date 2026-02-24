@@ -5,7 +5,6 @@ youtubei.googleapis.com
 youtubeembeddedplayer.googleapis.com
 ytimg.l.google.com
 ytimg.com
-i.ytimg.com
 jnn-pa.googleapis.com
 youtube-nocookie.com
 youtube-ui.l.google.com
@@ -13,6 +12,4 @@ yt-video-upload.l.google.com
 wide-youtube.l.google.com
 youtubekids.com
 ggpht.com
-yt3.ggpht.com
-yt4.ggpht.com
 yt3.googleusercontent.com

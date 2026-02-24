@@ -12,6 +12,7 @@ yandex.kz
 mts.ru
 multimc.org
 ya.ru
+avito.ru
 dns-shop.ru
 habr.com
 3dnews.ru
@@ -20,40 +21,35 @@ ozon.ru
 wildberries.ru
 microsoft.com
 msi.com
+microsoftonline.com
+live.com
+xboxlive.com
 akamaitechnologies.com
 2ip.ru
 yandex.ru
 boosty.to
 reg.ru
+2ch.hk
+rf4game.com
+rf4game.ru
+valve.net
+gosuslugi.ru
+gu-st.ru
+faceit.com
 
 store.steampowered.com
 steamcommunity.com
-store.fastly.steamstatic.com
-shared.fastly.steamstatic.com
-cmp1-sto2.steamserver.net
-cmp1-fra2.steamserver.net
-cmp2-sto1.steamserver.net
-cmp1-ams1.steamserver.net
-ipv6check-udp.steamserver.net
-ipv6check-http.steamserver.net
-ipv6check-http.steamserver.net
-community.steamstatic.com
-p2p-sto1.discovery.steamserver.net
+steamstatic.com
+steamserver.net
 
-assets.vrchat.com
-files.vrchat.cloud
 vrchat.com
-file-variants.vrchat.cloud
-pipeline.vrchat.cloud
+vrchat.cloud
 dtuitjyhwcl5y.cloudfront.net
 
-api.epicgames.dev
-datarouter.ol.epicgames.com
-latency.media.gaming-sdk.com
+epicgames.dev
+epicgames.com
 gaming-sdk.com
 
 github.com
 githubassets.com
-avatars.githubusercontent.com
-github.githubassets.com
-api.github.com
+githubusercontent.com
