@@ -60,11 +60,15 @@ rutor.is
 torproject.org
 nyaa.si
 nnmclub.to
+nnmstatic.win
 nnm-club.me
 speedtest.net
 ookla.com
 ficbook.net
 archiveofourown.org
+pulsoid.net
+booth.pximg.net
+vladimirkhil.com
 
 facebook.com
 facebook.net
@@ -172,6 +176,7 @@ threads.net
 
 blitz.gg
 b-cdn.net
+iesdev.com
 
 minecraft.net
 net-secondary.web.minecraft-services.net
