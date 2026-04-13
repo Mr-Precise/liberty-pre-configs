@@ -50,6 +50,8 @@ thepiratebay.org
 doramy.club
 betterttv.net
 softboxdorama.com
+dreamerscast.com
+doramy.info
 kit.fontawesome.com
 maxcdn.bootstrapcdn.com
 linktr.ee
@@ -69,6 +71,9 @@ archiveofourown.org
 pulsoid.net
 booth.pximg.net
 vladimirkhil.com
+avira-vpn.com
+
+telegram.org
 
 facebook.com
 facebook.net
