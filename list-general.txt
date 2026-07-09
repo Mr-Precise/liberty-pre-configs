@@ -20,6 +20,7 @@ discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
 
 cloudflare.com
+challenges.cloudflare.com
 cloudflare-ech.com
 encryptedsni.com
 cloudflareaccess.com
@@ -48,6 +49,7 @@ rutracker.cc
 t-ru.org
 thepiratebay.org
 doramy.club
+doramy.top
 betterttv.net
 softboxdorama.com
 dreamerscast.com
@@ -73,11 +75,19 @@ ookla.com
 ficbook.net
 ficdownloader.com
 s3.fr-par.scw.cloud
+pixiv.net
+artstation.com
+anivisual.net
+paimon.moe
 archiveofourown.org
 pulsoid.net
 booth.pximg.net
 vladimirkhil.com
 avira-vpn.com
+
+teamspeak.com
+myteamspeak.com
+teamspeak-services.com
 
 telegram.org
 
