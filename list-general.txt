@@ -73,6 +73,7 @@ turbobit.net
 speedtest.net
 ookla.com
 ficbook.net
+assets.teinon.net
 ficdownloader.com
 s3.fr-par.scw.cloud
 pixiv.net
