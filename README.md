@@ -2,6 +2,6 @@
 #### Configs and list of domain names / ip blocked sites for liberty-pre or zapret
 
 Используется как подмодуль для [Mr-Precise/liberty-pre](https://github.com/Mr-Precise/liberty-pre)  
+Базируется на открытых конфигурациях и списках доменов / IP-сетей, поддерживаемых независимым Open Source сообществом.  
 Used as a submodule for [Mr-Precise/liberty-pre](https://github.com/Mr-Precise/liberty-pre)  
-
-Thanks [github.com/Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - for list of domains / ip networks
+Based on open configurations and domain/IP network lists maintained by the independent Open Source community.
