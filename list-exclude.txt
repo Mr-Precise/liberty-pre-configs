@@ -105,7 +105,6 @@ dtuitjyhwcl5y.cloudfront.net
 
 epicgames.dev
 epicgames.com
-gaming-sdk.com
 
 github.com
 githubassets.com

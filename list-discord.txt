@@ -19,3 +19,4 @@ discordpartygames.com
 discordsays.com
 discordsez.com
 cloudflare-ech.com
+gaming-sdk.com
