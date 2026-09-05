@@ -18,6 +18,15 @@ discordsez.com
 dis.gd
 discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
+gaming-sdk.com
+
+^dns.google
+^dns.quad9.net
+^dns.nextdns.io
+^doh.opendns.com
+^doh.cleanbrowsing.org
+^wikimedia-dns.org
+^cloudflare-dns.com
 
 cloudflare.com
 challenges.cloudflare.com
@@ -40,6 +49,8 @@ cloudflarestream.com
 cloudflaretest.com
 one.one.one.one
 
+cloudfront.net
+
 7tv.app
 7tv.io
 10tv.app
@@ -48,6 +59,7 @@ rutracker.wiki
 rutracker.cc
 t-ru.org
 thepiratebay.org
+opentrackr.org
 doramy.club
 doramy.top
 betterttv.net
@@ -85,6 +97,12 @@ pulsoid.net
 booth.pximg.net
 vladimirkhil.com
 avira-vpn.com
+zendesk.com
+itch.io
+itch.zone
+
+curseforge.com
+forgecdn.net
 
 teamspeak.com
 myteamspeak.com
@@ -197,6 +215,7 @@ threads.com
 threads.net
 
 blitz.gg
+blitzapp.gg
 b-cdn.net
 iesdev.com
 
