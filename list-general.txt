@@ -89,17 +89,21 @@ assets.teinon.net
 ficdownloader.com
 s3.fr-par.scw.cloud
 pixiv.net
+pximg.net
+booth.pm
 artstation.com
 anivisual.net
 paimon.moe
 archiveofourown.org
 pulsoid.net
-booth.pximg.net
 vladimirkhil.com
 avira-vpn.com
 zendesk.com
+virustotal.com
 itch.io
 itch.zone
+thermaltake.com
+thermaltake.afd.azureedge.net
 
 curseforge.com
 forgecdn.net
@@ -109,6 +113,10 @@ myteamspeak.com
 teamspeak-services.com
 
 telegram.org
+telegram.space
+telegram.dog
+tg.dev
+t.me
 
 facebook.com
 facebook.net
